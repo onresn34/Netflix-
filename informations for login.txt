@@ -1,0 +1,7 @@
+loginName: "neosyazilim@gmail.com", 
+phoneNumber: "02129124090",
+password: "yazilimakademi"
+    
+loginName: "onuresin@gmail.com", 
+phoneNumber: "5543202204",
+password: "neosyazilim"
